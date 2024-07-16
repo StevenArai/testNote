@@ -73,6 +73,15 @@
 * Github：[@StevenArai](https://github.com/StevenArai)
 
 你看我还能输入KaTex！
+
+$\sqrt{3x-1}+(1+x)^2$
+
+$`\sqrt{3x-1}+(1+x)^2`$
+
+$$
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+$$
+
 ```math
 \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
