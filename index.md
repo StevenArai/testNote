@@ -71,3 +71,8 @@
 ## 联系方式
 * 邮箱：[StevenArai@outlook.com](mailto:StevenArai@outlook.com)
 * Github：[@StevenArai](https://github.com/StevenArai)
+
+你看我还能输入KaTex！
+$$
+\int_0^1 x^2 dx
+$$
