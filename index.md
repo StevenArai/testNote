@@ -1,19 +1,19 @@
 # 这是什么？
 这是一个测试仓库，用来测试 Github 的在线笔记功能。
 
-你也可以在github上新建一个**存储库**用来保存你自己的 markdown 笔记，并通过 https://github.dev/ 在任何浏览器访问你的**存储库**
+你也可以在github上新建一个**存储库**用来保存你自己的 markdown 笔记，并通过 [github.dev](https://github.dev/) 在任何浏览器访问你的**存储库**
 
 ## 步骤如下
 ### 先决条件
 * 在电脑上下载安装 [**Git**](https://git-scm.com/) ，学习 [Git 的使用](https://www.runoob.com/git/git-tutorial.html)。 
 
-* [新建**存储库**](https://www.runoob.com/git/git-create-repository.html)并推送到自己的 Github 。 
+* [**新建**](https://www.runoob.com/git/git-create-repository.html)存储库并推送到自己的 Github 。 
 
-* 在自己的手机和平板上安装并登录 Github APP [[iOS](https://apps.apple.com/us/app/github/id1477376905?l=zh)] [[Android](https://www.bing.com/search?q=github+android+apk&qs=UT&pq=github+android+&sk=MQT1UT3CT1&sc=10-15&cvid=AE6F19B44ED441659115477A915A871C&FORM=QBRE&sp=6&ghc=1&lq=0)]。 * **（注意 Github APP 只能查看不能编辑）**
+* 在自己的手机和平板上安装并登录 **Github APP** [[iOS](https://apps.apple.com/us/app/github/id1477376905?l=zh)] [[Android](https://www.bing.com/search?q=github+android+apk&qs=UT&pq=github+android+&sk=MQT1UT3CT1&sc=10-15&cvid=AE6F19B44ED441659115477A915A871C&FORM=QBRE&sp=6&ghc=1&lq=0)]。 * **（注意 Github APP 只能查看不能编辑）**
 
-* 在自己的手机和平板上使用 edge 登录 [github.dev](https://github.dev/)（使用自己的 Github 账号即可）基于 VSCode 开发的一个完全在浏览器中运行的代码编辑器。这允许你在浏览器查看和编辑 Github 存储库。* *（通常来说在移动设备上这样的编辑体验会更好，但这需要可靠的互联网连接，在没有上传进度前离开浏览器很可能让你丢失所有进度。）*
+* 在自己的手机和平板上使用 Edge 登录 [github.dev](https://github.dev/)（使用自己的 Github 账号即可）这是一个基于 VSCode 开发的完全在浏览器中运行的代码编辑器。这允许你直接在浏览器查看和编辑 Github 存储库。* *（通常来说在移动设备上这样的编辑体验会更好，但这需要可靠的互联网连接，在没有上传进度前离开浏览器很可能让你丢失所有进度。）*
 
-* 在自己的手机上安装 [**MGit**](https://f-droid.org/packages/com.manichord.mgit/) ，作为 **Git** 的安卓替代品，可以方便的查看和编辑存储库。 
+* 在自己的手机上安装 [**MGit**](https://f-droid.org/packages/com.manichord.mgit/) ，作为 Android 平台上的 **Git** 替代品，可以方便的查看和编辑存储库。 
 
 * 在自己的手机上安装 [**MarkdownX**](https://github.com/Ryeeeeee/MarkdownX) 作为 Android 平台上的 Markdown 编辑器。
 
@@ -27,7 +27,7 @@
 
 * 使用`git pull`确保本地笔记是最新的，然后即可使用 **VSCode** 编辑笔记内容。可以自由新建和删除文件夹和 markdown 文件。
 
-* 使用`git add .`添加所有修改到暂存区，然后使用`git commit -m "注释"`提交修改到本地存储库，确认无误后使用`git push`推送到 Github 。
+* 使用`git add .`添加所有修改到暂存区，然后使用`git commit -m "注释内容"`提交修改到本地存储库，确认无误后使用`git push`推送到 Github 。
 
 #### 自己的手机
 
